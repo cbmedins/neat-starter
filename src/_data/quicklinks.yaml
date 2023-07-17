@@ -1,14 +1,14 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
+  - title: Descripción del proyecto
+    url: "/posts/descripcion-del-proyecto/"
+    desc: Breve introducción sobre el propósito de la aplicación.
+  - title: Enfermedades Cardiovasculares
     url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
+    desc: Contenido educativo sobre las enfermedades cardiovasculares.
+  - title: Demostración interactiva
     url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
+    desc: Demostración interactiva del modelo predictivo.
+  - title: Enlaces a recursos adicionales
     url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+    desc: Recursos relacionados con las enfermedades cardiovasculares.

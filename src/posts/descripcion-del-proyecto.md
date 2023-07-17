@@ -1,11 +1,8 @@
 ---
-title: This is my fourth & latest post
-description: Bring to the table win-win survival strategies to ensure proactive
-  domination. At the end of the day, going forward, a new normal that has
-  evolved from generation X is on the runway heading towards a streamlined cloud
-  solution.
-date: 2020-09-23T15:13:13.021Z
-author: Surjith S M
+title: Descripción del proyecto
+description: Breve introducción sobre el propósito de la aplicación.
+date: 2023-07-17
+author: Cristhian Medina
 tags: second-tag
 ---
 
@@ -16,3 +13,6 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 ## Section Header
 
 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+
+
+this-is-latest-post
